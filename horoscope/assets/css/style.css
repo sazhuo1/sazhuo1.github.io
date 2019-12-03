@@ -107,3 +107,12 @@
   margin-left: 3%;
   cursor: default;
 }
+.arrowright img{
+  width: 50px;
+  margin-left: 92%;
+  padding-top: 30px;
+  opacity: 80%;
+}
+.arrowright img:hover{
+  opacity: 100%;
+}
